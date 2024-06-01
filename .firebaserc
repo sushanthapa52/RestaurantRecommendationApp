@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "restaurantsudbury": "restaurantsudbury",
+    "default": "restaurantsudbury"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
